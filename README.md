@@ -1,3 +1,3 @@
 # Sorting_Algorithm_Analysis
-Analyzing running time and number of steps of sorting algorithms.
+Analysis of sorting algorithms to assess their running time and the number of steps required for sorting various datasets.
 In collaboration with Jiahong Li
